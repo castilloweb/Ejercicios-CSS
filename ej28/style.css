@@ -1,0 +1,19 @@
+div{
+	background-color: #eee;
+	border: 2px solid #aaa;
+	display: inline;
+	margin: 10px;
+}
+nav > a{
+	background-color: red;
+	border: 1px solid violet
+	color: white;
+	display: block;
+	text-decoration: none;
+}
+span{
+	background-color: #eee;
+	border: 2px solid #aaa;
+	display: inline-block;
+	margin: 20px;
+}
