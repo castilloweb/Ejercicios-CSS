@@ -1,0 +1,37 @@
+form{
+	background-color: #B6EDED;
+	border: 2px solid #AACDCD;
+	border-radius: 10px;
+	padding: 1%;
+	width: 80%;
+	margin: 0 auto;
+}
+body{
+	background-color: #E6F1F1;
+	font-family: ubuntu, sans-serif;
+	color: #1B2828;
+}
+h1{
+	width: 80%;
+	margin: 0 auto;
+}
+hr{
+	height: 3px;
+	background-color: #AACDCD;
+	border: none;
+	width: 80%;
+	margin-left: 10%;
+	border-radius: 10px
+}
+#botonEstilo{
+	background: #834EC7;
+	text-align: center;
+	display: inline-block;
+	padding: 15px 30px;
+	border-radius: 5px;
+	border: none;
+	margin: 2%;
+	color: white;
+	
+
+}

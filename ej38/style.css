@@ -1,0 +1,18 @@
+.clickeable{
+	background-color: #ccc;
+	border: 1px solid #666;
+	cursor: pointer;
+	height: 50px;
+	line-height: 50px;
+	text-align: center;
+	width: 200px;
+}
+.clickeable::hover{
+	background-color: #eee;
+}
+.clickeable::active{
+	background-color: red;
+}
+a{
+	cursor: help;
+}
