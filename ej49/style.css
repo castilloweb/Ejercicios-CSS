@@ -1,0 +1,13 @@
+body{
+	font-size: 16px;
+	background-color: #eee;
+}
+h1{
+	display: none;
+}
+h2{
+	color: red;
+	display: block;
+	font-size: 40px;
+}
+@media (max-width: 412px)

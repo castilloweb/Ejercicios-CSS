@@ -1,6 +1,8 @@
 body{
 	font-family: helvetica, sans-serif;
 	background-color: #EEF6F6;
+	font-family: 'Abel', sans-serif;
+
 }
 div{
 	display: block;
@@ -21,12 +23,10 @@ h1{
 	font-size: 250%;
 	margin-left: 38%;
 	text-shadow: 2px 2px 2px #376E6E;
+
  }
  h2{
  	
- }
- a::hover{
- 	background-color: #4FC3DD;
  }
  a{
  	display: inline-block;
